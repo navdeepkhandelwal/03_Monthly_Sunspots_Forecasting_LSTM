@@ -68,7 +68,7 @@ The notebook builds a **univariate time-series forecasting model** with the foll
 
 A line plot to visualize model convergence and stability during training:
 
-![Training vs Validation Loss](loss_plot.png)
+![Training vs Validation Loss](results/loss_plot.png)
 
 ---
 
